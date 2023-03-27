@@ -1,0 +1,13 @@
+C:\Users\phanh\source\repos\Ticket\Ticket\bin\Debug\Ticket.exe.config
+C:\Users\phanh\source\repos\Ticket\Ticket\bin\Debug\Ticket.exe
+C:\Users\phanh\source\repos\Ticket\Ticket\bin\Debug\Ticket.pdb
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.csproj.AssemblyReference.cache
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.csproj.SuggestedBindingRedirects.cache
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.Form1.resources
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.Properties.Resources.resources
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.csproj.GenerateResource.cache
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.exe
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.pdb
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.Form2.resources
+C:\Users\phanh\source\repos\Ticket\Ticket\obj\Debug\Ticket.Form3.resources
